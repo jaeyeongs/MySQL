@@ -92,3 +92,41 @@
 
 - 테이블에 있는 기존 튜플을 삭제하는 명령
 - DELETE FROM 테이블 [WHERE 조건]
+
+## Day4 : SQL06
+
+### 실습 문제
+
+- *문제1 도서번호가 2인 도서의 이름*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411039-b45ca133-683d-4e83-a445-c07d68c4d92b.png)
+
+- *문제2 추신수의 총 구매액*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411085-5f1dab83-9124-4a54-bc16-c972916ccb8e.png)
+
+- *문제3 추신수가 구매한 도서의 출판사 수*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411154-ae990c0c-879b-4619-967a-71d43509b2a5.png)
+
+
+- *문제4 추신수가 구매하지 않은 도서의 이름*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411194-025f5a2b-8b20-4d62-8572-dbb43c70cf31.png)
+
+
+- *문제5 고객의 이름과 고객별 구매액*
+ 
+  ![image](https://user-images.githubusercontent.com/87981867/141411225-0fb0947c-d716-41c5-bfb4-a10965256ec0.png)
+
+
+- *문제6 고객의 이름과 고객이 구매한 도서 목록*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411247-ce6c3a3c-8eb2-4c90-a029-7b9a4239902d.png)
+
+
+- *문제7 추신수가 구매한 도서의 출판사와 같은 출판사에서 도서를 구매한 고객의 이름*
+
+  ![image](https://user-images.githubusercontent.com/87981867/141411276-668607c9-5f33-430c-93ac-1846c8375937.png)
+
+
