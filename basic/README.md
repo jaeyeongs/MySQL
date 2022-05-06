@@ -1,4 +1,4 @@
-# MySQL 기초 다지기
+# MySQL Base
 
 환경 : MySQL
 
